@@ -47,7 +47,7 @@ Edit
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/digit-recognition.git
+git clone https://github.com/vikshittindwani/digit-recognition.git
 cd digit-recognition
 Install dependencies:
 
